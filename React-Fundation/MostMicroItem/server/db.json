@@ -1,0 +1,23 @@
+{
+  "books": [
+    {
+      "id": "1852",
+      "title": "海的女儿",
+      "author": "小美人鱼",
+      "status": "finished"
+    },
+    {
+      "id": "eb99",
+      "title": "雍正王朝",
+      "author": "诸葛亮",
+      "status": "unread"
+    },
+    {
+      "id": "53a4",
+      "title": "超能力觉醒",
+      "author": "宋振兴",
+      "status": "unread"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
